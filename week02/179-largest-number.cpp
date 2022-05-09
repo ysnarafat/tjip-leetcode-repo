@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/largest-number/
 
-// Time Complexity - O(N * LogN)
+// Time Complexity - O(N * K * LogN) --> K = cost of comparing two strings.
 // Memory Complexity - O(N)
 
 class Solution {
